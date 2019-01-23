@@ -59,15 +59,3 @@ while True:
         exit()
 
 
-
-
-# nomedic = input('Nome do Dicionário: ')
-# livro = input('Nome do livro: ')
-# autor = input('Nome autor: ')
-#
-# dic = {}
-# lista = []
-# dic[nomedic] = lista
-# lista.append(livro)
-# lista.append(autor)
-# print(dic)
